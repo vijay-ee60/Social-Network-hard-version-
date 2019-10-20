@@ -10,6 +10,13 @@ using namespace std;
 #define vec vector
 #define m_p make_pair
 #define mod 1000000007
+
+void vijay(){
+ int matrix[100][20];
+    
+    for(i=0=;i<100;i++) matrix[i][13]=0;
+    
+}
 main()
 {
     ll n,i,j,k;
